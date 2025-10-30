@@ -1,0 +1,16 @@
+{
+  "title": "ShardCloud Template — Discord Bot Node.js",
+  "ref": "main",
+  "items": [
+    { "file": "README.md", "label": "Visão Geral" },
+    { "file": "01-introducao.md", "label": "Introdução" },
+    { "file": "02-configuracao.md", "label": "Configuração" },
+    { "file": "03-sistema-comandos.md", "label": "Sistema de Comandos" },
+    { "file": "04-sistema-estatisticas.md", "label": "Sistema de Estatísticas" },
+    { "file": "05-sistema-moderacao.md", "label": "Sistema de Moderação" },
+    { "file": "06-sistema-traducao.md", "label": "Sistema de Tradução" },
+    { "file": "07-sistema-convites.md", "label": "Sistema de Convites" },
+    { "file": "08-sistema-logs.md", "label": "Sistema de Logs" },
+    { "file": "09-deploy.md", "label": "Deploy" }
+  ]
+}

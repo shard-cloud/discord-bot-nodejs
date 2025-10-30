@@ -1,0 +1,5 @@
+DISPLAY_NAME=Discord Bot Node.js
+MAIN=bot.js
+MEMORY=512
+VERSION=recommended
+DESCRIPTION=Bot Discord completo com sistema modular, economia, estatísticas, moderação e muito mais
