@@ -1,5 +1,3 @@
-# 📝 Sistema de Logs
-
 O bot possui um sistema de logs completo e detalhado que registra todas as atividades importantes do servidor e do próprio bot, oferecendo monitoramento completo e transparência.
 
 ## Funcionalidades do Sistema

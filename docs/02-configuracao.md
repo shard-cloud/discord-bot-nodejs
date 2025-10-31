@@ -1,5 +1,3 @@
-# ⚙️ Configuração
-
 Para que o bot funcione corretamente, é necessário configurá-lo adequadamente. Esta seção aborda as configurações essenciais.
 
 ## Variáveis de Ambiente (`.env`)

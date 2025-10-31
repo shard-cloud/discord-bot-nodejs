@@ -1,5 +1,3 @@
-# 📈 Sistema de Convites
-
 O bot possui um sistema inteligente de rastreamento de convites que permite identificar quem convidou quem, oferecer recompensas por convites e manter estatísticas detalhadas.
 
 ## Funcionalidades do Sistema

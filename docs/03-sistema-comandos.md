@@ -1,5 +1,3 @@
-# 🎮 Sistema de Comandos
-
 O bot possui um sistema de comandos completo e modular, suportando tanto comandos de prefixo quanto slash commands, além de context menus.
 
 ## Tipos de Comandos

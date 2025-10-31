@@ -1,5 +1,3 @@
-# 📄 Introdução
-
 Bem-vindo à documentação do **Discord Bot Node.js**! Este bot foi desenvolvido para ser uma solução completa e modular para servidores Discord, oferecendo funcionalidades avançadas de moderação, estatísticas, tradução e muito mais.
 
 ## ✨ Funcionalidades Principais

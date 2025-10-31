@@ -1,5 +1,3 @@
-# 🔨 Sistema de Moderação
-
 O bot possui um sistema de moderação completo e robusto, oferecendo ferramentas avançadas para manter a ordem e segurança do servidor.
 
 ## Funcionalidades do Sistema

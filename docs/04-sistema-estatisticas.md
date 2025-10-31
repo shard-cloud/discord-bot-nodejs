@@ -1,5 +1,3 @@
-# 📊 Sistema de Estatísticas
-
 O bot possui um sistema de estatísticas completo que rastreia atividades dos membros e oferece recompensas por participação.
 
 ## Funcionalidades do Sistema

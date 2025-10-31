@@ -1,5 +1,3 @@
-# 🌍 Sistema de Tradução
-
 O bot possui um sistema de tradução automática que permite aos membros traduzir mensagens usando reações de bandeiras, facilitando a comunicação entre membros de diferentes idiomas.
 
 ## Funcionalidades do Sistema

@@ -1,5 +1,3 @@
-# 🚀 Deploy
-
 Esta seção descreve como colocar seu bot Discord Node.js online em produção, incluindo deploy na ShardCloud e em servidor próprio.
 
 ## ☁️ Deploy na ShardCloud (Recomendado)
