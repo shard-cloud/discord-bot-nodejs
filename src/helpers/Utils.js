@@ -1,7 +1,7 @@
 const { COLORS } = require("@src/data.json");
 const { readdirSync, lstatSync } = require("fs");
 const { join, extname } = require("path");
-const permissions = require("./permissions");
+const permissions = require("./Permissions");
 
 module.exports = class Utils {
   /**
@@ -155,8 +155,8 @@ module.exports = class Utils {
     }
 
     return string
-      .split(' ')
-      .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-      .join(' ');
+      .split(" ")
+      .map((word) => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+      .join(" ");
   }
 };
